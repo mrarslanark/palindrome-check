@@ -1,0 +1,61 @@
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-size: 1vm;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+input,
+button {
+  font-family: "Open Sans", sans-serif;
+  background: #212121;
+}
+
+h1 {
+  font-family: "Lexend Giga", sans-serif;
+  color: white;
+}
+
+input {
+  padding: 10px;
+  max-width: 30%;
+  border-radius: 2px;
+  border: 1px solid white;
+  font-size: 1rem;
+  color: white;
+  width: 25%;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px;
+  background: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  max-width: 10%;
+  font-size: 1rem;
+  letter-spacing: 2px;
+}
+
+button:hover {
+  transition: 0.3s;
+  background: rgb(240, 240, 240);
+}
+
+div {
+  height: 100%;
+  text-align: center;
+  margin-top: 250px;
+}
+
+p {
+  color: white;
+  margin-top: 40px;
+  font-size: 2rem;
+}

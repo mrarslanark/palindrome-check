@@ -1,2 +1,2 @@
-# palindrome-check
-#100daysOfCode - Palindrome Check
+# palindrome-checker
+This website checks whether a string provided is a palindrome or not
